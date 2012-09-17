@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="ProB Playback Action" url="https://github.com/pekmezci/de_prob_playback">
+      ProB Playback Action download site
+   </description>
+   <feature url="features/de.prob.playback_feature_1.0.0.201209172023.jar" id="de.prob.playback_feature" version="1.0.0.201209172023"/>
+</site>
